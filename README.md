@@ -8,11 +8,11 @@ My interests sit somewhere between software development, system administration, 
 
 ### 🚀 What I'm Working On
 
-- **Orbis** — A general-purpose desktop widget platform built with Tauri 2, React, TypeScript, and Rust.  
+- **Orbis**: A general-purpose desktop widget platform built with Tauri 2, React, TypeScript, and Rust.  
   *Everything at a glance.*
-- **Automation Workflows** — Building practical automations with n8n, APIs, Node.js, and AI integrations.
-- **Personal Dashboard Projects** — Experimenting with RSS feeds, data aggregation, smart devices, and custom desktop utilities.
-- **Home Automation** — Exploring Home Assistant, network integration, and smart device ecosystems.
+- **Automation Workflows**: Building practical automations with n8n, APIs, Node.js, and AI integrations.
+- **Personal Dashboard Projects**: Experimenting with RSS feeds, data aggregation, smart devices, and custom desktop utilities.
+- **Home Automation**: Exploring Home Assistant, network integration, and smart device ecosystems.
 
 ### 🛠️ Technologies & Tools
 
